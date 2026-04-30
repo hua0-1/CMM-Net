@@ -1,5 +1,7 @@
 # Modality-Aware Fusion Network with Cross-Modal Alignment and Mid-Frequency Enhancement for Infrared and Visible Image Integration
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19915232.svg)](https://doi.org/10.5281/zenodo.19915232)
+
 This repository contains the official implementation of our paper submitted to **The Visual Computer**.
 
 Abstract
