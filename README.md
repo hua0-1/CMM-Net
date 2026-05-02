@@ -35,7 +35,7 @@ If you find this code useful, please cite our paper:
 bibtex
 @article{cmmnet2025,
   title={Modality-Aware Fusion Network with Cross-Modal Alignment and Mid-Frequency Enhancement for Infrared and Visible Image Integration},
-  author={...},
+  author={Yang Pan，Huaxiu Liu，Lei Zhu，Bo Zhang},
   journal={The Visual Computer},
   year={2025}
 }
